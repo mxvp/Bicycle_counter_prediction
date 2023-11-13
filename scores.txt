@@ -1,0 +1,27 @@
+vacation + months
+Train set R²: 0.9349427561082045
+Test set R²: 0.8713714471460263
+
+vacation only
+Train set R²: 0.9181753854219481
+Test set R²: 0.8384742777358667
+
+rain + snowdepth + vacation + months
+Train set R²: 0.9401764364303768
+Test set R²: 0.8660529893477894
+
+vacation + months + hyperparameters
+Train set R²: 0.9068281830542935
+Test set R²: 0.8814103133095638
+
+vacation + months + weekend (no days)
+Train set R²: 0.9221980615319918
+Test set R²: 0.851466980619121
+
+vacation + months + weekend + int_hour_weekend (no days)
+Train set R²: 0.9171453396259903
+Test set R²: 0.8484230754043471
+
+vacation + months + weekend + int_hour8_weekend
+Train set R²: 0.924233905317392
+Test set R²: 0.8401495866475173
