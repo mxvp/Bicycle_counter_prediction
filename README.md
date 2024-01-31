@@ -10,7 +10,7 @@ Ghent has implemented bicycle counting points throughout the city as part of the
 
 The data used in this project includes historical bicycle count data from https://data.stad.gent and weather data from https://open-meteo.com.
 
-![cyclists](https://github.com/mxvp/Bicycle_counter_prediction/blob/main/images/cyclists.jpg)
+![cyclists](https://github.com/mxvp/Bicycle_counter_prediction/blob/main/images/cyclists.png)
 
 ## Methodology
 
@@ -20,4 +20,4 @@ XGBoost, the open-source regularizing gradient boosting framework, was employed 
 
 On the test set for the month of July 2023, an R² value of 0.83 was achieved. This indicates a strong correlation between the predicted and actual bicycle counts during this period.
 
-![Predictions](https://github.com/mxvp/Bicycle_counter_prediction/blob/main/images/predictions.jpg)
+![Predictions](https://github.com/mxvp/Bicycle_counter_prediction/blob/main/images/predictions.png)
